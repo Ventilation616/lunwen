@@ -11,8 +11,7 @@
 - sys\_config (系统配置表)
 - ai\_chat\_session (AI会话表)
 - knowledge\_article (运动知识表)
-- model\_version (模型版本表)
-- correction\_report (矫正报告表)
+- &#x20;
 
 ## 2. 表结构设计
 
